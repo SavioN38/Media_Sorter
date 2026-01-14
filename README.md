@@ -24,6 +24,7 @@ Designed to work smoothly even on **older Windows systems**.
 
 ---
 
-## 📸 Screenshots 
+## 📸 Screenshots
+
 ![Main Window](screenshots/Homescreen2.PNG)
 ![Conflict Dialog](screenshots/Homescreen4.PNG)
